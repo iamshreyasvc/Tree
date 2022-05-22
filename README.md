@@ -1,16 +1,7 @@
-# tree
+# Tree
 
-A new Flutter project.
 
-## Getting Started
+The tree is a multi-user social media platform that is meant specifically for academia, students, and professors. Where we can collaborate, share information, engage with job and research opportunities.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I mostly worked on the front end, gave and implemented suggestions for better user experience. Used Canva to front-end templates, while also narrating and scripting our video presentation.
